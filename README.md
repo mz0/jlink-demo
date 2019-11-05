@@ -50,3 +50,7 @@ the same name as the subproject (e.g. `cli`, `gui.bat`).
 The contents of either `dist` subdirectory can be copied and run anywhere (assuming the same platform 
 type as the machine on which the bundle was made).  You could also use any installer tool of your 
 choice to make a one-click installer artifact.
+
+## See also
+
+http://august.nagro.us/small-java.html "For a simple project requiring java.net.http, ... these steps produced a 23MB jlink image."
